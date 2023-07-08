@@ -1,0 +1,14 @@
+.text-input {
+    width: 100%;
+    font-size: 30px;
+    padding: 5px 10px;
+    outline: 0;
+    border: none;
+    display: flex;
+    align-items: center;
+}
+
+.text-input::placeholder {
+    font-size: 22px;
+    color: gray;
+}
